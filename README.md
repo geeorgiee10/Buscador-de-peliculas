@@ -1,2 +1,6 @@
 # Buscador-de-peliculas
-BUscador de peliculas y series usando AJAX
+Buscador de peliculas y series usando AJAX
+
+--
+
+URL: https://geeorgiee10.github.io/Buscador-de-peliculas/
